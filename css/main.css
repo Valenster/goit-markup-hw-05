@@ -572,7 +572,7 @@ img{
 }
 
 .backdrop{
-    position: absolute;
+    position: fixed;
     top: 0;
     bottom: 0;
     width: 100vw;
@@ -757,7 +757,6 @@ img{
 
 
 .diablo{
-    max-width: 1600px;
     margin-left: auto;
     margin-right: auto;
     padding-top: 94px;
@@ -781,3 +780,15 @@ animation-iteration-count
 animation-direction
 animation-fill-mode
 animation-play-state */
+/* 
+Тренування */
+/* input {
+    padding: 8px;
+    font-family: inherit;
+  }
+  
+  label {
+    display: flex;
+    flex-direction: column;
+    margin-bottom: 8px;
+  } */
